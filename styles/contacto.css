@@ -12,3 +12,27 @@
 .nav-item:hover {
     background-color: rgb(68, 175, 148) !important;
 }
+.inputHC{
+    background-color:gold !important;
+
+}
+.inputHC:focus{
+    background-color:palevioletred !important;
+}
+.tituloHC{
+    color: azure !important;
+}
+.formHC{
+    background-color:darkgray !important;
+    color:azure !important
+}
+.bodyHC{
+    background-color: black !important;
+}
+.botonHC{
+    background-color: gold !important;
+
+}
+.botonHC:focus{
+    background-color: palevioletred !important;
+}
