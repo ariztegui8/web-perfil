@@ -1,17 +1,12 @@
-.navbar{
-    background-color: rgb(68, 127, 175) !important;
+.logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    overflow: hidden;
+    object-fit: cover;
 }
-.navbar-brand{
-    color: rgb(252, 255, 253) !important;
-    font-weight: 500;
-}
-.navbar-toggler{
-    background-color: rgb(68, 175, 148);
-    
-}
-.nav-item:hover {
-    background-color: rgb(68, 175, 148) !important;
-}
+
 .inputHC{
     background-color:gold !important;
 
