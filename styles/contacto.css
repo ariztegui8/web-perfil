@@ -7,6 +7,10 @@
     object-fit: cover;
 }
 
+.bg-fondo-navbar{
+    background-color: #048ABF !important;
+}
+
 .inputHC{
     background-color:gold !important;
 

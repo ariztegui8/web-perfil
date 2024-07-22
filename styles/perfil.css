@@ -7,12 +7,29 @@
     color: #F2A03D;
 }
 
+.bg-fondo-navbar{
+    background-color: #048ABF !important;
+}
+
 .icon-user{
     color: #198754;
 }
 
 .arrow-icon-color{
+    color: #048ABF;
+}
 
+.arrow-icon-color2{
+    color: #D49BC5;
+}
+
+.logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    overflow: hidden;
+    object-fit: cover;
 }
 
 .scroll{
