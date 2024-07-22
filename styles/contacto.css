@@ -1,0 +1,33 @@
+.logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.inputHC{
+    background-color:gold !important;
+
+}
+.inputHC:focus{
+    background-color:palevioletred !important;
+}
+.tituloHC{
+    color: azure !important;
+}
+.formHC{
+    background-color:darkgray !important;
+    color:azure !important
+}
+.bodyHC{
+    background-color: black !important;
+}
+.botonHC{
+    background-color: gold !important;
+
+}
+.botonHC:focus{
+    background-color: palevioletred !important;
+}
